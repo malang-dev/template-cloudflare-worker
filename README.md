@@ -1,15 +1,15 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/malang-dev/template-typescript">
-    <img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="Typescript" width="150px">
+  <a href="https://github.com/malang-dev/template-clouflare-worker">
+    <img src="https://icon.icepanel.io/Technology/svg/Cloudflare-Workers.svg" alt="Typescript" width="150px">
   </a>
-  <h2 align="center">@malang-dev/template-typescript</h2>
+  <h2 align="center">@malang-dev/template-clouflare-worker</h2>
   <div align="center">
-    <p align="center">Template repository for new TypeScript projects</p>
+    <p align="center">Template repository for new Cloudflare worker projects</p>
     <div>
-        <a href="https://github.com/malang-dev/template-typescript/releases/"><img src="https://img.shields.io/github/release/malang-dev/template-typescript?include_prereleases=&sort=semver&color=blue" alt="GitHub release"></a>
-        <a href="https://github.com/malang-dev/template-typescript#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
+        <a href="https://github.com/malang-dev/template-clouflare-worker/releases/"><img src="https://img.shields.io/github/release/malang-dev/template-clouflare-worker?include_prereleases=&sort=semver&color=blue" alt="GitHub release"></a>
+        <a href="https://github.com/malang-dev/template-clouflare-worker#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
     </div>
   </div>
 </div>
@@ -37,16 +37,16 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ## Releasing
 
-1. Go to [Publish Release](https://github.com/malang-dev/template-typescript/actions/workflows/publish-release.yaml) page, click Run workflow
+1. Go to [Publish Release](https://github.com/malang-dev/template-clouflare-worker/actions/workflows/publish-release.yaml) page, click Run workflow
 2. Fill the vendor version and then run the flow
 3. GitHub Actions will take care of the rest
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/malang-dev/template-typescript/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/malang-dev/template-clouflare-worker/blob/master/LICENSE.md) file for details.
 
 ## Acknowledgments
 
 Inspiration, code snippets, icon, etc.
 
-- [Template Typescript](https://github.com/foxglove/template-typescript) by Foxglove.
+- [Template Typescript](https://github.com/foxglove/template-clouflare-worker) by Foxglove.
